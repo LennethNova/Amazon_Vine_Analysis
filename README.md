@@ -23,4 +23,4 @@ Adding another filter to the data, in order to verify the purchase of the produc
 ## Summary:
 There doesn't seem to be any positivity bias for the reviews in the vine program, specially from the paid votes with verified purchase. And even if considering the unverified purchase, it might be a lot 51.06% but at the same time, that considers low voters count in comparison with the non paid members. This last filter that was used to see the difference as accurate as possible,is one of many that could be use in order to give more meaning to the data. Also there are different ways to get to these results and at the same time there could be an analysis that could allow us to see the best selling and the best evaluated videogames and videogame related products.
 
-### Data from: *https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt*, *https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz*
+###### Data from: *https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt*, *https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz*
