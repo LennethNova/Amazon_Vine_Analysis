@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignored files
+Amazon_Reviews_ETL_starter_code.ipynb
+customers_table.csv
+products_table.csv
+review_id_table.csv
+vine_table.csv
+challenge_schema.sql
+
 # Distribution / packaging
 .Python
 build/
